@@ -1,0 +1,9 @@
+small{
+    display: block;
+}
+p{
+    display: inline;
+}
+h3{
+    display: inline-block;
+}
